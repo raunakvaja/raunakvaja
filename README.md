@@ -8,8 +8,14 @@
     <img src="https://img.shields.io/badge/OPEN_TO-Automation_Roles-0F766E?style=for-the-badge" alt="Open to automation roles" />
   </p>
   <p>Practical business understanding. Clear logic. Reliable execution.</p>
-</div><hr /><h2>&#9889; What I build</h2>
-<p>Email-to-workflow automation, API integrations, document processing, and operational reporting.</p><table>
+</div>
+
+<hr />
+
+<h2>&#9889; What I Build</h2>
+<p>Email-to-workflow automation, API integrations, document processing, and operational reporting.</p>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>&#128230; Order Tracking</h3>
@@ -35,7 +41,23 @@
     </td>
   </tr>
 </table>
-<p><sub>Selected internal projects. Public source code is not included.</sub></p><h2>&#128736; Tools I work with</h2>
+<p><sub>Selected internal projects. Public source code is not included.</sub></p>
+
+<h2>&#128187; Django Web Projects</h2>
+<p><img src="https://img.shields.io/badge/DJANGO_PROJECTS-4_COMPLETED-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Four Django projects completed" /></p>
+<table>
+<tr>
+<td width="50%" valign="top"><h3>&#127869; Velvet Ember</h3><p>Menu filters, session-based bag, and contact form validation.</p><p><code>Python</code> <code>Django</code> <code>Templates</code></p></td>
+<td width="50%" valign="top"><h3>&#129367; Recipe Explorer</h3><p>TheMealDB recipes, ingredients, instructions, and cooking view.</p><p><code>Python</code> <code>Django</code> <code>REST API</code></p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>&#128717; StreetX Store</h3><p>Fake Store API catalog with validated data and caching.</p><p><code>Python</code> <code>Django</code> <code>REST API</code></p></td>
+<td width="50%" valign="top"><h3>&#127758; Quest Travel</h3><p>Geoapify city search, nearby attractions, and place details.</p><p><code>Python</code> <code>Django</code> <code>REST API</code></p></td>
+</tr>
+</table>
+<p><sub>Completed learning projects. Repository links will be added after publication.</sub></p>
+
+<h2>&#128736; Tools I work with</h2>
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
@@ -43,7 +65,9 @@
   <img src="https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&amp;logo=googlesheets&amp;logoColor=white" alt="Google Sheets" />
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
-</p><h2>&#128202; Programming &amp; data foundations</h2>
+</p>
+
+<h2>&#128202; Programming &amp; data foundations</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
@@ -52,7 +76,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
 </p>
-<p><sub>Coursework completed in all six. Building practical applications and analysis projects.</sub></p><h2>&#127919; My approach</h2>
+<p><sub>Coursework completed in all six. Building practical applications and analysis projects.</sub></p>
+
+<h2>&#127919; My approach</h2>
 <table>
   <tr>
     <th>&#129513; Understand</th>
@@ -66,7 +92,13 @@
     <td>Data &amp; outputs</td>
     <td>Failures &amp; recovery</td>
   </tr>
-</table><p><strong>&#127793; Growing next:</strong> JavaScript for n8n, resilient API integrations, and Git.</p><hr /><div align="center">
+</table>
+
+<p><strong>&#127793; Growing next:</strong> JavaScript for n8n, resilient API integrations, and Git.</p>
+
+<hr />
+
+<div align="center">
   <h2>&#129309; Let's build better workflows</h2>
   <p>Interested in n8n automation, workflow integrations, and internal business tools.</p>
   <a href="https://github.com/raunakvaja?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
