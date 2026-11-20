@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="330" viewBox="0 0 400 330" role="img" aria-label="Decorative connected orbits">
+<g fill="none" stroke="#F64200" stroke-width="1.5">
+<ellipse cx="200" cy="165" rx="190" ry="68" transform="rotate(-23 200 165)"/>
+<ellipse cx="200" cy="165" rx="179" ry="68" transform="rotate(-52 200 165)"/>
+<ellipse cx="200" cy="165" rx="171" ry="78" transform="rotate(-73 200 165)" stroke-dasharray="4 5"/>
+</g>
+<g fill="#F64200"><circle cx="32" cy="221" r="7"/><circle cx="103" cy="113" r="7"/><circle cx="172" cy="46" r="7"/><circle cx="274" cy="205" r="7"/><circle cx="365" cy="119" r="7"/><circle cx="119" cy="285" r="7"/>
+<path d="M200 125C203 158 211 162 242 165C211 168 203 174 200 205C197 174 189 168 158 165C189 162 197 158 200 125Z"/></g>
+</svg>
