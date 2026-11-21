@@ -1,16 +1,12 @@
 <!-- Custom headings/decorations are images. All body content below is native selectable text. -->
 <p><strong>01 / FLOW STUDIO</strong></p>
 
-<table width="100%"><tr>
-<td width="66%" valign="top">
-<p><img src="flow-assets/headline.svg" width="100%" alt="Make work flow." /></p>
-<p><img src="flow-assets/name.svg" width="365" alt="Raunak Vaja" /></p>
+<img align="right" src="flow-assets/orbit.gif" width="30%" alt="Actual portfolio n8n orbit animation: API, Python, database and workflow satellites" />
+<p><img src="flow-assets/headline.svg" width="65%" alt="Make work flow." /></p>
+<p><img src="flow-assets/name.svg" width="55%" alt="Raunak Vaja" /></p>
 <p><strong>R&amp;D &amp; IT Manager at Windbridge Concepts</strong><br />Ahmedabad, India</p>
 <p>I turn everyday business processes into connected, dependable workflows. With a background in operations, product development and IT, I build practical automation and internal systems that bring clarity, accuracy and consistency to day-to-day work.</p>
-<p><a href="https://raunakvaja.pages.dev/"><img src="flow-assets/portfolio.svg" width="150" alt="Portfolio" /></a><br /><a href="https://raunakvaja.pages.dev/">raunakvaja.pages.dev</a></p>
-</td>
-<td width="34%" valign="middle"><img src="flow-assets/orbit.gif" width="100%" alt="Actual portfolio n8n orbit animation: API, Python, database and workflow satellites" /></td>
-</tr></table>
+<p><a href="https://raunakvaja.pages.dev/"><img src="flow-assets/portfolio.svg" align="middle" width="150" alt="Portfolio" /></a> &nbsp; <a href="https://raunakvaja.pages.dev/">raunakvaja.pages.dev</a></p>
 
 ---
 
