@@ -6,7 +6,8 @@
 <p><img src="flow-assets/name.svg" width="55%" alt="Raunak Vaja" /></p>
 <p><strong>R&amp;D &amp; IT Manager at Windbridge Concepts</strong><br />Ahmedabad, India</p>
 <p>I turn everyday business processes into connected, dependable workflows. With a background in operations, product development and IT, I build practical automation and internal systems that bring clarity, accuracy and consistency to day-to-day work.</p>
-<p><a href="https://raunakvaja.pages.dev/"><img src="flow-assets/portfolio.svg" align="middle" width="150" alt="Portfolio" /></a> &nbsp; <a href="https://raunakvaja.pages.dev/">raunakvaja.pages.dev</a></p>
+<p><a href="https://raunakvaja.pages.dev/"><img src="flow-assets/portfolio.svg" align="middle" width="150" alt="Portfolio" /></a> &nbsp; 
+<!-- <a href="https://raunakvaja.pages.dev/">raunakvaja.pages.dev</a></p> -->
 
 ---
 
