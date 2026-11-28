@@ -12,8 +12,8 @@
 ---
 
 <table><tr>
-<td><img src="flow-assets/number-04.svg" width="70" alt="04" /></td><td><strong>INTERNAL<br />SYSTEMS</strong></td>
-<td><img src="flow-assets/number-04.svg" width="70" alt="04" /></td><td><strong>DJANGO<br />PROJECTS</strong></td>
+<td width="70" align="center"><h1>05</h1></td><td><strong>INTERNAL<br />SYSTEMS</strong></td>
+<td width="70" align="center"><h1>04</h1></td><td><strong>DJANGO<br />PROJECTS</strong></td>
 <td>Design &#8594; R&amp;D &#8594; IT &#8594; <strong>Automation</strong></td>
 </tr></table>
 
@@ -22,6 +22,7 @@
 <table width="100%">
 <tr><td width="43%" valign="top"><h3>01 &nbsp; Production SOT</h3><p>Centralizes order intake, tracking and shipment reconciliation in one place.</p></td><td width="14%"><img src="flow-assets/arrow.svg" width="110" alt="" /></td><td width="43%" valign="top"><br /><h3>02 &nbsp; Invoice Creation System</h3><p>Creates shipment-based invoices with validation, review and PDF/Excel generation.</p></td></tr>
 <tr><td valign="top"><h3>03 &nbsp; Checklist Automation</h3><p>Automates checklist validation using defined business rules to reduce manual work.</p></td><td><img src="flow-assets/arrow.svg" width="110" alt="" /></td><td valign="top"><br /><h3>04 &nbsp; Bill of Entry Checking</h3><p>Checks import documents, flags exceptions and helps resolve issues early.</p></td></tr>
+<tr><td valign="top"><h3>05 &nbsp; MIS FedEx Claim Invoice Automation</h3><p>Processes emailed Excel claim lists, validates shipment details, and generates commercial invoices by parcel. Pre-fills FedEx claim forms for eligible parcels using shipment and invoice details, then returns the PDFs in the original email thread and flags exceptions.</p></td><td><img src="flow-assets/arrow.svg" width="110" alt="" /></td><td valign="top"><br /><h3>06 &nbsp; Coming Soon...</h3></td></tr>
 </table>
 <p><sub>Internal source and company data are not public.</sub></p>
 
@@ -46,14 +47,14 @@
 <table width="100%"><tr>
 <td width="33%" valign="top"><p><img src="flow-assets/link.svg" width="24" alt="" /> &nbsp; <strong>Connect &amp; automate</strong></p><p>n8n, REST APIs, Webhooks, JSON, Google Sheets, Telegram</p></td>
 <td width="33%" valign="top"><p><img src="flow-assets/layers.svg" width="24" alt="" /> &nbsp; <strong>Deploy &amp; maintain</strong></p><p>Docker, Ubuntu, monitoring, troubleshooting, backup and recovery</p></td>
-<td width="34%" valign="top"><p><img src="flow-assets/code.svg" width="24" alt="" /> &nbsp; <strong>Build &amp; analyse</strong></p><p>Python, Django, NumPy, pandas, Matplotlib, Seaborn</p></td>
+<td width="34%" valign="top"><p><img src="flow-assets/code.svg" width="24" alt="" /> &nbsp; <strong>Build &amp; analyse</strong></p><p>Python, Django, HTML, CSS, Bootstrap<br />pandas, NumPy, Matplotlib, seaborn, scikit-learn</p></td>
 </tr></table>
 
 <p><img src="flow-assets/book.svg" width="25" alt="" /> &nbsp; <strong>LEARNING &amp; COURSES</strong></p>
-<p>Completed foundation coursework in Python, Django, NumPy, pandas, Matplotlib and Seaborn.<br />Advanced Full Stack AI at Felix ITs (expected March 2027).</p>
+<p>Completed modules: Python, Django, Data Analysis and Machine Learning, HTML, CSS and Bootstrap.<br />Advanced Full Stack AI at Felix ITs is in progress (expected March 2027).</p>
 
 ---
 
 <p><img src="flow-assets/footer-heading.svg" width="480" alt="Your next workflow. My next chapter." /></p>
-<p>I'm open to automation opportunities.<br />Remote or relocation, with a one-month notice.</p>
-<p><a href="https://raunakvaja.pages.dev/">Portfolio &#8599;</a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/raunakvaja/">LinkedIn &#8599;</a> &nbsp; | &nbsp; <a href="mailto:raunakvaja@gmail.com">Email &#8599;</a></p>
+<p>I'm open to automation opportunities.<br />Open to remote work or relocation anywhere in India. One-month notice period.</p>
+<p><a href="https://raunakvaja.pages.dev/">Portfolio &#8599;</a> &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/raunakvaja/">LinkedIn &#8599;</a> &nbsp; | &nbsp; <a href="mailto:raunakvaja@gmail.com">Email &#8599;</a> &nbsp; | &nbsp; Mobile: +91 84473 89219</p>
